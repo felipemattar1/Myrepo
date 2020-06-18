@@ -1,0 +1,4 @@
+test
+testInheritedMeth
+
+ods()
